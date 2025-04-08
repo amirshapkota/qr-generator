@@ -8,4 +8,5 @@ def main():
 
     generate_qr_code(data, filename)
 
-main()
+if __name__ == "__main__":
+    main()
