@@ -20,4 +20,6 @@ Input the text or URL
 
 Input the filename to save the QR code.
 
+## Information
+
 Used libraries: qrcode
