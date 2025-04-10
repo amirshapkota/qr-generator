@@ -2,6 +2,8 @@
 
 How to install:
 
+Clone:
+
 `git clone https://github.com/amirshapkota/qr-generator.git`
 
 Then:
@@ -11,3 +13,7 @@ Then:
 Run:
 
 `python main.py`
+
+Input the text or URL
+
+Input the filename to save the QR code.
