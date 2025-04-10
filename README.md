@@ -1,6 +1,6 @@
 # qr-generator
 
-How to install:
+## How to install:
 
 Clone:
 
@@ -13,6 +13,8 @@ Then:
 Run:
 
 `python main.py`
+
+## How to use:
 
 Input the text or URL
 
